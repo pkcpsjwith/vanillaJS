@@ -1,0 +1,35 @@
+
+body{
+    background-color: pink;
+
+}
+.night {
+    color: yellow;
+    background: blue;
+    transition: 0.3s ease-in-out
+}
+
+.morning{
+    color: purple;
+    background: pink;
+    transition: 0.3s ease-in-out
+
+
+
+}
+
+.btn{
+    border: solid royalblue 1px;
+    height:200px;
+    cursor: pointer;
+}
+
+.btn_off{
+    border: dotted royalblue 1px;
+    height:200px;
+    background-color: aqua;
+}
+
+.special{
+    background: linear-gradient(90deg, rgba(171,164,82,1) 0%, rgba(134,134,213,1) 35%, rgba(0,212,255,1) 100%); 
+}

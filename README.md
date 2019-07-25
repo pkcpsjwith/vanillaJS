@@ -1,8 +1,8 @@
-#Javascript로 무엇이든지 만드는 그날을 향해 
+💘Javascript로 무엇이든지 만드는 그날을 향해 
 
 #1 nomad
 
-basic 2 : eventlistener, change css by JS 
+📁basic 2 : eventlistener, change css by JS 
 
-momentum : clock , input and submit 
+📁momentum : clock , input and submit 
 
